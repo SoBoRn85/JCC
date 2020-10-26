@@ -95,7 +95,7 @@ cuidado com inimigo que se está enfrentando.
 ### Soldado
 São a infantaria inimiga, os soldados serão os inimigos mais fáceis de derrotar
 possuem o menor dano e pouca vida.
-![](https://drive.google.com/file/d/1SAL5-KYB6RiLtLEHMZUclyi0jZdgmXRO/view?usp=sharing)
+![]()
 
 ### Arqueiro
 São semelhante aos soldados, contudo dão mais dano e possuem vida menor.
@@ -122,7 +122,7 @@ tomar o Reino de Atlus para si.
 ## Níveis ou Fases
 O Reino de Atlus é um mundo aberto bonito e cheio de lugares diferentes para serem
 explorados.
-![]()
+![Cewich](https://ibb.co/P6rfW4z)
 
 ## Músicas e Efeitos Sonoros
 Referências de composições e efeitos sonoros que viram a ser usados no jogo, entre
