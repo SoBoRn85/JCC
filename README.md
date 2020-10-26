@@ -123,7 +123,7 @@ tomar o Reino de Atlus para si.
 O Reino de Atlus é um mundo aberto bonito e cheio de lugares diferentes para serem
 explorados.
 
-![Cewich](https://ibb.co/P6rfW4z)
+<https://ibb.co/P6rfW4z>
 
 ## Músicas e Efeitos Sonoros
 Referências de composições e efeitos sonoros que viram a ser usados no jogo, entre
