@@ -122,6 +122,7 @@ tomar o Reino de Atlus para si.
 ## Níveis ou Fases
 O Reino de Atlus é um mundo aberto bonito e cheio de lugares diferentes para serem
 explorados.
+
 ![Cewich](https://ibb.co/P6rfW4z)
 
 ## Músicas e Efeitos Sonoros
