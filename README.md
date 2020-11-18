@@ -1,7 +1,14 @@
 # Características Gerais do Jogo
+
+
 ## Nome do Jogo
+
+
 Atlus Um Reino em Guerra
+
 ## Resumo do Jogo
+
+
 Quando acorda, você encontra uma carta do seu pai e descobre que ele foi embora…
 A única pista é o seu velho diário e uma espada no chão. O que terá acontecido?
 Aventure-se num mundo repleto de perigos, charadas e segredos. Lute contra o
@@ -12,70 +19,137 @@ Atlus e saber mais do exercito que vem invadindo e dominando essas terras.
 uma jogabilidade empolgante. Tudo isso fará dessa aventura e ação uma experiência
 sem igual.
 Divirta-se com uma trilha sonora incrível feita por compositores extremamente
-habilidosos como: Adrian Von Ziegler, Antti Martikainen e BrunuhVille
+habilidosos como: Adrian Von Ziegler e Antti Martikainen.
 Jogo de ação e aventura para PC
 
 ## Plataformas
+
+
 PC
 
+
 ## Classificação e Faixa Etária
+
+
 Classificação T 13 anos, Pode conter conteúdo violento, Violência de Fantasia.
 
 ## Mecânica do Jogo
+
+
 * Aventuras em reinos fantásticos e envolvem Derrotar Inimigos, coletar tesouros e
 salvar seu pai e outros aldeões.
 * Jogo 3D, 3º pessoa em uma perspectiva topdown, aventura open-world que deixa em
-aberto para o jogador desvendar segredos e puzzles
+aberto para o jogador desvendar segredos e puzzles espalhados pelo mapa.
 * Sendo também possível aprimorar status iniciais.
 
 ## Produtos Concorrentes
+
+
 * Zelda Link's Awakening
 * Genshin Impact
 * Mario 64
 
 ## Modelo de Negócio
+
+
 Como Projeto acadêmico ele será Free to Play (contudo existe a possibilidade de
 usar mecânicas gacha para microtransações futuras para adquirir novos personagem
 como novos backgrounds).
 
 ## Diferenciais
-* O diferencial fica por um jogo de aventura em mundo aberto Free to Play
+
+
+* O diferencial fica por um jogo de aventura em mundo aberto Free to Play.
 * Bem como o visual fofinho que remete a miniaturas, uma história contada de
 forma leve e um cenário aberto para exploração.
+* Gráficos com efeitos de pós-processamento em Cel-Shader utilizando de materiais
+de pós-processamento para criar um efeito de Toon dando personalidade própria ao Jogo
+enriquecendo-o visualmente.
 
 # Descrição do Jogo
+
+##Atlus
+
+
+Atlus é um Reino antigo e mítico cheio de lugares de poder como cavernas misteriosas
+onde lendas contam sobre aqueles que entraram e nunca saíram, bem como florestas soturnas
+guardadas por seres desencarnados que ressurgiram no local onde outrora foi palco de
+alguma grande batalha.
+Um lugar onde nem mesmo a passagem das eras seu povo foi capaz de esquecer seus antigos
+Deuses, ao norte do reino Yarm uma sagas e hábil raposa que ludibriava seus inimigos,
+enquanto guiava aqueles que a seguiam em segurança ao seu destino. No Sul Garow um
+enorme e poderoso Lobo Branco que surgia nas brumas e sorrateiramente atacava e todos
+entravam em seus domínios. Não é de espantar que os cidadãos ao sul do reino possuem o
+costume de ser Bairristas, desconfiados e pouco receptivos com estranhos assim como
+Garow eles defendem o seu território e a décadas travam guerras protegendo o reino dos
+ataques de reinos vizinhos.
+O ultimo grande confronto foi a 11 anos quando o Reino de Enom invadiu as terras de
+Atlus pela fronteira sul e reivindicou territórios. Como era de se esperar houve resistência
+aos invasores e um confronto de guerrilha foi iniciado, assim que se a capital do reinado
+ficou sabendo da invasão foram mandados reforços e a tática de guerrilha fora trocada por
+batalhas campais milhares morreram de ambos os lados mas no fim as forças do Reino de Enom
+foram rechaçadas as fronteiras foram fortificadas e a ordem restabelecida. Agora 10 anos
+depois a sombra novamente paira ao sul, o que está acontecendo e o que será feito para
+detê-los cabe ao nosso jovem Herói.
+
+
 ## Controles do Jogo
+
+
 ### As teclas de movimentação
+
 * Tecla W para ir para cima.
 * Tecla A para o lado esquerdo.
 * Tecla S para baixo
 * Tecla D para o lado direito.
 * Tecla de ataque é botão esquerdo do mouse e bloqueio no botão direito do mouse.
-* Tecla E para Interagir com objetos e NPC's.
 * Segurando a tecla Shift para correr.
 
+
 ## Câmera
+
+
 A Câmera se move junto ao personagem fixa de cima para baixo em uma
-perspectiva com um ângulo agradável.
+perspectiva com um ângulo agradável, podendo ser rotacionada em volta do personagem
+para melhor aproveitamento dos ângulos de visão.
+
+
 ## Interface
-* No canto superior esquerdo os corações serão o modificador de vida do personagem
-* No canto inferior direito estará os principais comandos e os botões.
+
+Como o Jogo possui um visual deslumbrante foi optado por ter uma Interface de
+Hud minimalista que mostra só o necessário, desta forma o jogador fica imerso no
+que é importante, a exploração e as descobertas que serão realizadas nessa adorável
+aventura.
+
+* No canto superior esquerdo a barra vermelha é o mostrador de vida do personagem.
+* No canto superior direito o cristal tem um contador que representa o valor total
+de Altis(Altis é a moeda do Jogo) do personagem.
+
+![Hud]()
+
 
 ## Personagens
+
+
 ### Stan Rouve
+
 O personagem Principal da nossa historia, filho de Tom e Lisa Rouve é um jovem
 muito perspicaz e curioso, embora sua mãe tenha falecido ainda na sua infância
 ele cresceu alegre e sendo bem educado e treinado pelo seu pai que o ensinou
 se defender e defender aqueles que precisam de ajuda.
 
+
 ### Tom Rouve
+
 Tom não por escolha foi combatente durante a ultima grande guerra no reino de Atlus,
 infelizmente ele estava longe quando sua esposa e filho foram atacados a bravura de
 Lisa salvou seu filho, contudo nunca mais Tom iria rever sua esposa. Foi dificil
 mas ele criou o pequeno Stan tentou o educar com bons princípios e moralidade o
 treinou para saber se defender contra os males do mundo.
 
+
 ### Lisa Rouve
+
 Lisa era uma mulher Bonita e inteligente que que possuía muito amor em seu coração,
 um dia seu pequeno filho estava brincando na frente de casas e repentinamente um
 pequeno destacamento do exercito de Enom  eram 5 homens, Lisa foi ágil e rápida pegou
@@ -84,68 +158,108 @@ salvaram a vila e seu filho, porem entre os invasores havia um arqueiro e ele a
 alvejou, ela morreu como uma heroína para os aldeões e sempre é lembrada com carinho
 por Stan, contudo Tom guarda com amargura não estar próximo para protege-los.
 
-## Armas e ou Acessórios
-Ainda estou avaliando se será utilizado outras armas e acessórios.
 
 ## Inimigos
-As forças inimigas são compostas pelo exercito de Enom que voltou a avançar sobre
-sobre as terras do Reino de Atlus, com hierarquia bem diversa é importante tomar
-cuidado com inimigo que se está enfrentando.
+
+
+As forças inimigas são compostas pelo exercito do Reino de Enom que voltou a avançar
+sobre as terras do Reino de Atlus, com uma hierarquia rígida eles são extremamente
+militarizados seus exércitos são comandados por Guerreiros experientes e habilidosos,
+é importante tomar cuidado com inimigo que se está enfrentando.
 
 ### Soldado
+
+
 São a infantaria inimiga, os soldados serão os inimigos mais fáceis de derrotar
 possuem o menor dano e pouca vida.
+
 ![]()
 
-### Arqueiro
-São semelhante aos soldados, contudo dão mais dano e possuem vida menor.
-![]()
 
 ### Sargento
+
+
 São combatentes bem treinados e podem dar trabalho de derrotar normalmente andam
 com um pequeno destacamento de soldados.
+
 ![]()
+
 
 ### Tenente
+
+
 São inimigos temíveis, suas forças são difíceis de igualar quando estão com o resto
 de suas tropas e melhor evitar.
+
 ![]()
 
+
 ### Boss
+
 Conde Elfic é o líder das tropas do Reino Enom que estão atacando o Atlus pelo Sul
 tem como objetivo avançar e dominar o máximo possível até que resto as tropas cheguem
 mas por soberba e ganância decidiu avançar somente com suas tropas rumo a capital para
 tomar o Reino de Atlus para si.
+
 ![]()
 
 
 ## Níveis ou Fases
+
 O Reino de Atlus é um mundo aberto bonito e cheio de lugares diferentes para serem
-explorados.
+explorados. Durante suas aventuras o herói pode se deparar com cavernas místicas que o
+Levaram para uma nova faze com um novo elemento de exploração onde encontra o final
+da caverna e seus tesouros é um quebra-cabeças em si.
+
 ![]()
 
 
 ## Músicas e Efeitos Sonoros
-Referências de composições e efeitos sonoros que viram a ser usados no jogo, entre
-outras que são adicionadas em algum momento oportuno:
 
-* Land of the Free - Adrian von Ziegler <https://www.youtube.com/watch?v=wK-j2XVl_mc>
 
-* Forest Children - Adrian von Ziegler <https://www.youtube.com/watch?v=1_qV9e4UAB0>
+Como não podia faltar temos Ótimas composições de artistas incríveis que possuem direito
+de uso aberto para trabalhos universitários e sem fins lucrativos deis que os citem nas
+Referências de composições bem como efeitos sonoros que foram usados no jogo, sendo assim
+seguem os links dos mesmos:
 
-* Home of Heroes - Adrian von Ziegler <https://www.youtube.com/watch?v=_BtCQ2k9lGQ>
+* Spring Morning [Mapa] - Adrian von Ziegler <https://www.youtube.com/watch?v=SALFWt7g0Hk&list=PLNUD1FnueNsvkGI3dYgwTO4_FGCqRmEOq&index=11>
 
-* Chosen by the Sword - Antti Martikainen <https://www.youtube.com/watch?v=-n7Q6rkRL10>
+* Forest Children [Floresta] - Adrian von Ziegler <https://www.youtube.com/watch?v=1_qV9e4UAB0>
 
-* Valor - Antti Martikainen <https://www.youtube.com/watch?v=vtGKykNfs00>
+* Welcome Home [Aldeia] [tempo 44:54] - Adrian von Ziegler <https://www.youtube.com/watch?v=jiwuQ6UHMQg&list=PLNUD1FnueNsvkGI3dYgwTO4_FGCqRmEOq&index=3&t=1s>
+
+* Home of Heroes [Encontro com o Pai] - Adrian von Ziegler <https://www.youtube.com/watch?v=_BtCQ2k9lGQ>
+
+* Fairy Forest [Menu Inicial] [tempo 59:17] - Adrian von Ziegler <https://www.youtube.com/watch?v=jiwuQ6UHMQg&list=PLNUD1FnueNsvkGI3dYgwTO4_FGCqRmEOq&index=3&t=1s>
+
+* Wolf Blood [Menu de Morte] [tempo 36:26] - Adrian von Ziegler <https://www.youtube.com/watch?v=jiwuQ6UHMQg&list=PLNUD1FnueNsvkGI3dYgwTO4_FGCqRmEOq&index=3&t=1s>
+
+* Sacred Earth [Cavernas] [tempo 35:19] - Adrian von Ziegler <https://www.youtube.com/watch?v=ihZwWD4MFtA&list=PLNUD1FnueNsvkGI3dYgwTO4_FGCqRmEOq&index=2>
+
+* Journey's End [Fim do Jogo] [tempo 1:20:58] - Adrian von Ziegler <https://www.youtube.com/watch?v=ihZwWD4MFtA&list=PLNUD1FnueNsvkGI3dYgwTO4_FGCqRmEOq&index=2>
+
+* Treeborn [Pause] - Adrian von Ziegler <https://www.youtube.com/watch?v=-byEUO-ipyg&list=PLNUD1FnueNsvkGI3dYgwTO4_FGCqRmEOq&index=6>
+
+* Chosen by the Sword [Combate 01] - Antti Martikainen <https://www.youtube.com/watch?v=-n7Q6rkRL10>
+
+* Valor - Antti Martikainen [Combate 02] <https://www.youtube.com/watch?v=vtGKykNfs00>
+
+* Efeitos Sonoros <https://www.sounds-resource.com/wii_u/thelegendofzeldabreathofthewild/>
+
 
 ## Core Loop
+
+
 Enfrentar inimigos para pegar baús, adquirir Altis(moeda do jogo) e gemas do coração(gema rara),
-as gemas do coração podem ser usadas nas estatuas dos deuses antigos espalhadas pelo
+as gemas do coração podem ser usadas nas estatuas dos Deuses antigos espalhadas pelo
 mapa para aumentar a vida do herói, também pode doar Altis nas estatuas dos deuses
 para curar seus ferimentos, retornar a vila de Cewich, usar Altis para comprar itens,
-salvar aldeões e desvendar puzzles.
+salvar aldeões e desvendar puzzles. Por fim o objetivo final e Principal é encontrar
+e salvar seu Pai.
 
 ## Telas do Jogo:
-incluir algumas fotos de telas principais do jogo.
+
+
+Segue uma Galeria de imagens do jogo:
+
 ![]()
