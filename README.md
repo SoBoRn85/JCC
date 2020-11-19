@@ -137,6 +137,7 @@ O personagem Principal da nossa historia, filho de Tom e Lisa Rouve é um jovem
 muito perspicaz e curioso, embora sua mãe tenha falecido ainda na sua infância
 ele cresceu alegre e sendo bem educado e treinado pelo seu pai que o ensinou
 se defender e defender aqueles que precisam de ajuda.
+![Hero](https://user-images.githubusercontent.com/56280975/99624946-8769e800-2a05-11eb-852f-8c8584d9151c.png)
 
 
 ### Tom Rouve
