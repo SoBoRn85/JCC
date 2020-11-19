@@ -125,7 +125,7 @@ aventura.
 * No canto superior direito o cristal tem um contador que representa o valor total
 de Altis(Altis é a moeda do Jogo) do personagem.
 
-![Hud]()
+![Hud](https://user-images.githubusercontent.com/56280975/99596761-3f2ed380-29cd-11eb-8b11-5852312eec23.png)
 
 
 ## Personagens
@@ -173,7 +173,7 @@ militarizados seus exércitos são comandados por Guerreiros experientes e habil
 São a infantaria inimiga, os soldados serão os inimigos mais fáceis de derrotar
 possuem o menor dano e pouca vida.
 
-![]()
+![Soldado](https://user-images.githubusercontent.com/56280975/99608478-588f4a00-29e4-11eb-8794-2d7506cc1027.png)
 
 
 ### Sargento
@@ -182,7 +182,7 @@ possuem o menor dano e pouca vida.
 São combatentes bem treinados e podem dar trabalho de derrotar normalmente andam
 com um pequeno destacamento de soldados.
 
-![]()
+![Sargento](https://user-images.githubusercontent.com/56280975/99608485-5af1a400-29e4-11eb-9c31-38eb6bf039a8.png)
 
 
 ### Tenente
@@ -191,7 +191,7 @@ com um pequeno destacamento de soldados.
 São inimigos temíveis, suas forças são difíceis de igualar quando estão com o resto
 de suas tropas e melhor evitar.
 
-![]()
+![Tenente](https://user-images.githubusercontent.com/56280975/99608487-5b8a3a80-29e4-11eb-8b8e-41d50ebac89c.png)
 
 
 ### Boss
@@ -201,7 +201,7 @@ tem como objetivo avançar e dominar o máximo possível até que resto as tropa
 mas por soberba e ganância decidiu avançar somente com suas tropas rumo a capital para
 tomar o Reino de Atlus para si.
 
-![]()
+![Boss](https://user-images.githubusercontent.com/56280975/99608490-5cbb6780-29e4-11eb-82a1-af1babe991ef.png)
 
 
 ## Níveis ou Fases
@@ -211,7 +211,7 @@ explorados. Durante suas aventuras o herói pode se deparar com cavernas místic
 Levaram para uma nova faze com um novo elemento de exploração onde encontra o final
 da caverna e seus tesouros é um quebra-cabeças em si.
 
-![]()
+![Mapa](https://user-images.githubusercontent.com/56280975/99608493-5e852b00-29e4-11eb-8889-9f1e614aca9f.png)
 
 
 ## Músicas e Efeitos Sonoros
@@ -262,4 +262,19 @@ e salvar seu Pai.
 
 Segue uma Galeria de imagens do jogo:
 
-![]()
+![Caverna](https://user-images.githubusercontent.com/56280975/99608433-41505c80-29e4-11eb-9ea3-c0af3e758bb3.png)
+
+
+![Fogueira](https://user-images.githubusercontent.com/56280975/99608435-43b2b680-29e4-11eb-888c-f4bd61970ef9.png)
+
+
+![Vila](https://user-images.githubusercontent.com/56280975/99608436-444b4d00-29e4-11eb-8e4b-374b046bb3bf.png)
+
+
+![Fort](https://user-images.githubusercontent.com/56280975/99608440-44e3e380-29e4-11eb-9033-608149317744.png)
+
+
+![Estatua Garow](https://user-images.githubusercontent.com/56280975/99608467-562cf000-29e4-11eb-9100-84e80d17187f.png)
+
+
+![Cenario](https://user-images.githubusercontent.com/56280975/99608476-57f6b380-29e4-11eb-87fc-ca6218cec43d.png)
