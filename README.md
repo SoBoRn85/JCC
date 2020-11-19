@@ -257,10 +257,42 @@ para curar seus ferimentos, retornar a vila de Cewich, usar Altis para comprar i
 salvar aldeões e desvendar puzzles. Por fim o objetivo final e Principal é encontrar
 e salvar seu Pai.
 
+
+## Pacotes da Unreal
+
+
+Referencias de Pacotes utilizados da Unreal.
+
+Advanced Village Pack
+<https://www.unrealengine.com/marketplace/en-US/product/advanced-village-pack>
+
+Platformer
+<https://www.unrealengine.com/marketplace/en-US/product/platformer-starter-pack>
+
+Medieval Kingdom
+<https://www.unrealengine.com/marketplace/en-US/product/medieval-kingdom>
+
+Modular RPG Heroes Polyart
+<https://www.unrealengine.com/marketplace/en-US/product/modular-rpg-heroes-polyart>
+
+Stylized Pack
+<https://www.unrealengine.com/marketplace/en-US/product/stylized-pack-01>
+
+Stylized Forest
+<https://www.unrealengine.com/marketplace/en-US/product/stylized-forest-02>
+
+MultistoryDungeons
+<https://www.unrealengine.com/marketplace/en-US/product/top-down-multistory-dungeons>
+
+SpringLandscape
+<https://www.unrealengine.com/marketplace/en-US/product/spring-landscape>
+
+
 ## Telas do Jogo:
 
 
 Segue uma Galeria de imagens do jogo:
+
 
 ![Caverna](https://user-images.githubusercontent.com/56280975/99608433-41505c80-29e4-11eb-9ea3-c0af3e758bb3.png)
 
@@ -278,3 +310,12 @@ Segue uma Galeria de imagens do jogo:
 
 
 ![Cenario](https://user-images.githubusercontent.com/56280975/99608476-57f6b380-29e4-11eb-87fc-ca6218cec43d.png)
+
+
+![fort2](https://user-images.githubusercontent.com/56280975/99611596-5fb95680-29ea-11eb-8f2d-cd3566caad8c.png)
+
+
+![caverna2](https://user-images.githubusercontent.com/56280975/99611600-61831a00-29ea-11eb-94ed-bc2c98004664.png)
+
+
+![cenario2](https://user-images.githubusercontent.com/56280975/99611603-621bb080-29ea-11eb-97b7-2e3dcc250b15.png)
